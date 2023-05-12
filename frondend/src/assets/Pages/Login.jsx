@@ -9,6 +9,7 @@ import {
 }
 from 'mdb-react-ui-kit';
 
+
 function App() {
   return (
     <MDBContainer fluid>
@@ -38,7 +39,7 @@ function App() {
 
         <MDBCol sm='6' className='d-none d-sm-block px-0'>
           <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/img3.webp"
-            alt="Login image" className="w-100" style={{objectFit: 'cover', objectPosition: 'left'}} />
+            alt="Login image" className="romapic" style={{objectFit: 'cover', objectPosition: 'left'}} />
         </MDBCol>
 
       </MDBRow>
